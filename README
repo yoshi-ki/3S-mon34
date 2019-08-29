@@ -1,4 +1,4 @@
-Name
+3S-mon34
 ====
 
 Overview
@@ -54,21 +54,5 @@ Overview
 
 	report10:
 		kadai-a : create function that read the calue of the counter register
-
-## Demo
-
-## VS. 
-
-## Requirement
-
-## Usage
-
-## Install
-
-## Contribution
-
-## Licence
-
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
 
 
