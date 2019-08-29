@@ -2,8 +2,20 @@ Name
 ====
 
 Overview
+	This repository contains code that I wrote in a class, "System programming lab."
 
 ## Description
+
+	report1:
+		kadai-a : How to make a MAKEFILE
+		kadai-b : shell script that sort .c files
+		kadai-c : create PDF file from the separated files on the Internet
+		kadai-d : code that changes file extention
+		kadai-e : use strace
+		kadai-f : kill command
+	
+	report2:
+		kadai-a : 
 
 ## Demo
 
@@ -21,7 +33,4 @@ Overview
 
 [MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
 
-## Author
-
-[tcnksm](https://github.com/tcnksm)
 
